@@ -1,0 +1,9 @@
+{
+  "name": "com.apple.bookmarks",
+  "description": "Apple iCloud Firefox Bookmarks",
+  "path": "iCloudFirefox.exe",
+  "type": "stdio",
+  "allowed_extensions": [
+    "firefoxdav@icloud.com"
+  ]
+}

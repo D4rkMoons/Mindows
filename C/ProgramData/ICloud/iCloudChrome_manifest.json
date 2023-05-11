@@ -1,0 +1,9 @@
+{
+  "name": "com.apple.bookmarks",
+  "description": "Apple iCloud Chrome Bookmarks",
+  "path": "iCloudChrome.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://fkepacicchenbjecpbpbclokcabebhah/"
+  ]
+}

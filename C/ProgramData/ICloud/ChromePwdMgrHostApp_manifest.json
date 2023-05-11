@@ -1,0 +1,10 @@
+{
+  "name": "com.apple.passwordmanager",
+  "description": "Apple iCloud Chrome/Edge Password Manager Host App",
+  "path": "iCloudPasswordsExtensionHelper.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://pejdijmoenmkgeppbflobdenhhabjlaj/",
+    "chrome-extension://mfbcdcnpokpoajjciilocoachedjkima/"
+  ]
+}
